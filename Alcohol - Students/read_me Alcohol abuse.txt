@@ -1,4 +1,5 @@
 Secondary school student alcohol consumption data with social, gender and study information.
+
 SUMMARY
 The data were obtained in a survey of students math and portuguese language courses in secondary school. It contains a lot of interesting social, gender and study information about students. You can use it for some EDA or try to predict students final grade.
 
@@ -34,35 +35,35 @@ studytime - weekly study time (numeric: 1 - <2 hours, 2 - 2 to 5 hours, 3 - 5 to
 
 failures - number of past class failures (numeric: n if 1<=n<3, else 4)
 
-schoolsup - extra educational support (binary: yes or no)
+schoolsup - extra educational support    (binary: yes or no)
 
-famsup - family educational support (binary: yes or no)
+famsup - family educational support      (binary: yes or no)
 
 paid - extra paid classes within the course subject (Math or Portuguese) (binary: yes or no)
 
 activities - extra-curricular activities (binary: yes or no)
 
-nursery - attended nursery school (binary: yes or no)
+nursery - attended nursery school        (binary: yes or no)
 
-higher - wants to take higher education (binary: yes or no)
+higher - wants to take higher education  (binary: yes or no)
 
-internet - Internet access at home (binary: yes or no)
+internet - Internet access at home       (binary: yes or no)
 
-romantic - with a romantic relationship (binary: yes or no)
+romantic - with a romantic relationship  (binary: yes or no)
 
 famrel - quality of family relationships (numeric: from 1 - very bad to 5 - excellent)
 
-freetime - free time after school (numeric: from 1 - very low to 5 - very high)
+freetime - free time after school        (numeric: from 1 - very low to 5 - very high)
 
-goout - going out with friends (numeric: from 1 - very low to 5 - very high)
+goout - going out with friends           (numeric: from 1 - very low to 5 - very high)
 
-Dalc - workday alcohol consumption (numeric: from 1 - very low to 5 - very high)
+Dalc - workday alcohol consumption       (numeric: from 1 - very low to 5 - very high)
 
-Walc - weekend alcohol consumption (numeric: from 1 - very low to 5 - very high)
+Walc - weekend alcohol consumption       (numeric: from 1 - very low to 5 - very high)
 
-health - current health status (numeric: from 1 - very bad to 5 - very good)
+health - current health status           (numeric: from 1 - very bad to 5 - very good)
 
-absences - number of school absences (numeric: from 0 to 93)
+absences - number of school absences     (numeric: from 0 to 93)
 
 These grades are related with the course subject, Math or Portuguese:
 
